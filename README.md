@@ -1,18 +1,18 @@
-HappyBwn
+## Happy Bwning
 👋 Xin chào, tôi là @HappyBwn!
 
 Chào mừng bạn đến với hồ sơ GitHub của tôi, nơi tôi chia sẻ đam mê công nghệ thông qua những video thông tin và hấp dẫn.
 *****************
-##Về tôi
+# Giới thiệu về bản thân
 Tôi là một người yêu công nghệ, thích khám phá những tiến bộ mới nhất và tìm ra giải pháp cho những thách thức hàng ngày. Mục tiêu của tôi là cung cấp thông tin hữu ích, hướng dẫn và đánh giá để giúp mọi người đưa ra quyết định thông minh và tận dụng tối đa thiết bị công nghệ của họ.
 
-##Những gì bạn sẽ tìm thấy ở đây
+# Những gì bạn sẽ tìm thấy ở đây
 Trên kênh này, bạn sẽ tìm thấy nhiều video về các chủ đề trong thế giới công nghệ. Từ những đánh giá và so sánh sản phẩm đến các hướng dẫn sửa lỗi và giải pháp sáng tạo, tôi luôn cố gắng cung cấp nội dung vừa bổ ích vừa thú vị.
 
-##Tham gia cùng tôi
+# Hãy Tham gia cùng tôi
 Tôi luôn sẵn sàng hợp tác và háo hức làm việc cùng những người có cùng đam mê. Nếu bạn có bất kỳ ý tưởng cho các dự án tiềm năng hoặc muốn tham gia cùng nhau trong một công việc liên quan đến công nghệ, hãy liên hệ với tôi.
 
-##Cách liên lạc
+## Thông tin liên hệ
 Bạn có thể kết nối với tôi qua các kênh sau:
 ```
 GitHub: @HappyBwn
